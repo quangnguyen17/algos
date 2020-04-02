@@ -1,3 +1,3 @@
-# Algorithms
+# Algos
 
-- algos solved in `js`.
+- Algorithm challenges solved in `javascript`.
